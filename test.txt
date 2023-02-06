@@ -3,3 +3,5 @@ s
 asdasd
 new commit
 push should not work
+
+CI SKIP
